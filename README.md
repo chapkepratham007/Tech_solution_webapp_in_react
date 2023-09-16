@@ -2,6 +2,8 @@ React App use dependencies:
 React-router-dom
 react-icons
 react-responsive-carousol
+Click link to check:
+https://deluxe-starburst-92dfe2.netlify.app/#home
 
 # Getting Started with Create React App
 
