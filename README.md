@@ -3,8 +3,7 @@ React-router-dom
 react-icons
 react-responsive-carousol
 Click link to check:
-https://deluxe-starburst-92dfe2.netlify.app/#home
-
+https://tech-solution-webapp.netlify.app
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
